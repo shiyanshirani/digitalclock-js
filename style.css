@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+body {
+  background: #000;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-0%) translate(-50%);
+  color: #fff;
+  font-size: 80px;
+  font-family: "Fjalla One", sans-serif;
+}
