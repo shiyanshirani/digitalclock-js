@@ -27,4 +27,3 @@ function showTime(){
 
 showTime();
 
-//This is a comment
